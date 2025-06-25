@@ -1,0 +1,8 @@
+{
+  "name": "AI Automated Journal Entry Creator",
+  "description": "An intelligent application that analyzes business transactions and automatically generates accounting journal entries using AI. Designed for accuracy and compliance, for HEREANDNOW AI RESEARCH INSTITUTE.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}

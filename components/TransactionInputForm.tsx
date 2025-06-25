@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { DEFAULT_ACCENT_COLOR } from '../../constants';
-import { useLanguage } from '../../contexts/LanguageContext';
+import { DEFAULT_ACCENT_COLOR } from '../constants';
+import { useLanguage } from '../contexts/LanguageContext';
 
 interface TransactionInputFormProps {
   onSubmit: (data: string) => void;
